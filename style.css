@@ -5,8 +5,8 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .corpo{
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
+    width: 100%;
     background: linear-gradient(to top right, #7fffd4, #05fd89be);
 }
 .pai {
@@ -75,7 +75,7 @@ p{
 }
 .pecont {
     text-align: justify;
-    width: 500px;
+    
     display: flex;
     flex-direction: column;
     justify-content: center;
